@@ -46,7 +46,7 @@ Languages & Frameworks:
 <br> Personal:
 ![Vim](https://img.shields.io/badge/Vim-green?style=flat&logo=vim&logoColor=white)
 ![Tmux](https://img.shields.io/badge/Tmux-FFFFFF?style=flat&logo=tmux&logoColor=green)
-![Manjaro](https://img.shields.io/badge/Arch_Linux-black?style=flat&logo=manjaro&logoColor=green)
+![Manjaro](https://img.shields.io/badge/Manjaro-black?style=flat&logo=manjaro&logoColor=green)
 <!--
 TODO
 
