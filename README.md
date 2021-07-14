@@ -6,10 +6,9 @@ Software Engineer | Software Architect
 
 Started programming at the age of eight. <br>
 In love with open source projects. <br>
-Engineering @ Delivery Much.
+Engineering @ iFood
 
 [![Linkedin: tacio](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taciomcosta/)](https://www.linkedin.com/in/taciomcosta/)
-![Gmail: tacio](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto://taciomcosta@gmail.com)
 
 ### > Principles & Practices
 
