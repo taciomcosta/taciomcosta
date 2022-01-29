@@ -29,19 +29,19 @@ Languages & Frameworks:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-<br> Databases:
+<br> Storages:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Postgres](	https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](	https://img.shields.io/badge/Redis-E0234E?style=flat&logo=redis&logoColor=white)
 <br> Cloud & Ops:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1793D1?style=flat&logo=kubernetes&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <br> Communication:
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-orange?style=flat&logo=rabbitmq&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-316192?style=flat&logo=graphql&logoColor=pink)
+![Kafka](https://img.shields.io/badge/Kafka-black?style=flat&logo=apachekafka&logoColor=white)
 <br> Personal:
 ![Vim](https://img.shields.io/badge/Vim-green?style=flat&logo=vim&logoColor=white)
 ![Tmux](https://img.shields.io/badge/Tmux-FFFFFF?style=flat&logo=tmux&logoColor=green)
