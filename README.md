@@ -6,7 +6,7 @@ Software Engineer | Software Architect
 
 Started programming at the age of eight. <br>
 In love with open source projects. <br>
-Engineering @ iFood
+Engineering @ Uber
 
 [![Linkedin: tacio](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taciomcosta/)](https://www.linkedin.com/in/taciomcosta/)
 
